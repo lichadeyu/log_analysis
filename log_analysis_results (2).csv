@@ -1,0 +1,18 @@
+IP Address,Request Count
+10.0.0.2,2074
+198.51.100.23,2028
+192.168.1.1,1999
+203.0.113.5,1962
+192.168.1.100,1937
+
+Most Accessed Endpoint:
+Endpoint,Access Count
+/profile,1292
+
+Suspicious Activity:
+IP Address,Failed Login Count
+198.51.100.23,1034
+10.0.0.2,1016
+192.168.1.1,997
+192.168.1.100,992
+203.0.113.5,988
