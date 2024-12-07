@@ -17,14 +17,17 @@
 
 ---
 
+
+## Deployment
+ Live Link : https://loganalysis-vrv.streamlit.app/
 ## Installation
 
 1. Clone this repository or download the source files.
 
    
 bash
-   git clone https://github.com/your-username/log-file-analyzer.git
-   cd log-file-analyzer
+   git clone https://github.com/lichadeyu/log_analyis.git
+   cd log_analyis
 
    Clone the repository:
 
