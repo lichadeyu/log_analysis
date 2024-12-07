@@ -26,7 +26,7 @@
 
    
 bash
-   git clone https://github.com/lichadeyu/log_analyis.git
+   git clone [https://github.com/lichadeyu/log_analyis.git](https://github.com/lichadeyu/log_analysis)
    cd log_analyis
 
    Clone the repository:
